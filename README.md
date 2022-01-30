@@ -9,5 +9,4 @@ Game to beat the time by typing random words
 - Implement timer  
 - Store difficulty setting in local storage  
 
-## Demo 
-[Try it](https://tranthaituananh.github.io/speed-typing/)
+## [Demo](https://tranthaituananh.github.io/speed-typing/)
