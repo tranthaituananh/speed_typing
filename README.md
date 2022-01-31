@@ -1,5 +1,5 @@
 # Speed Typing
-Game to beat the time by typing random words
+Game to beat the time by typing random words. [Try it](https://tranthaituananh.github.io/speed-typing/)  
 
 ## Features
 - Create game UI including a difficulty setting  
@@ -8,5 +8,3 @@ Game to beat the time by typing random words
 - Add a certain amount of time after word is typed based on difficulty  
 - Implement timer  
 - Store difficulty setting in local storage  
-
-## [Demo](https://tranthaituananh.github.io/speed-typing/)
